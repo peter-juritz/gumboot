@@ -2,7 +2,7 @@
     "nicks": [
         "node",
         "qix",
-        "someone_elese"
+        "someone_else"
     ], 
     "poll_interval": 30,
     "irc_server": "irc.an-irc-server.org", 
