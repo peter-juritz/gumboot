@@ -1,0 +1,11 @@
+{
+    "nicks": [
+        "qix", 
+        "node"
+    ], 
+    "poll_interval": 30,
+    "notify_privmsg": false, 
+    "irc_server": "irc.efnet.org", 
+    "channel": "#example", 
+    "rss_url": "http://an.example.gumtree.rss.url/"
+}
