@@ -1,11 +1,13 @@
 {
     "nicks": [
-        "qix", 
-        "node"
+        "node",
+        "qix",
+        "someone_elese"
     ], 
     "poll_interval": 30,
-    "notify_privmsg": false, 
-    "irc_server": "irc.efnet.org", 
-    "channel": "#example", 
-    "rss_url": "http://an.example.gumtree.rss.url/"
+    "irc_server": "irc.an-irc-server.org", 
+    "irc_port": 6667,
+    "irc_nick": "gumboot",
+    "irc_channel": "#examplechannel", 
+    "rss_url": "http://a.gumtree.rss.url/"
 }
