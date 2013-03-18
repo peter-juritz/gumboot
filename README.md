@@ -8,7 +8,7 @@ Installation
 Requires the python modules:
 * irc
 * feedparser
-* hgtools
+* hgtools (required by irc)
 
 
 Running
